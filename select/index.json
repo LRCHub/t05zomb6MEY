@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ホワイトスペースにおいで / ナースロボ_タイプT, 重音テト",
+  "base_artist": "椎野乃々",
+  "createdAt": "2026-01-13T13:15:43.963485Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ホワイトスペースにおいで",
+      "artist": "椎野乃々",
+      "has_synced": false,
+      "path": "select/pl_01_ホワイトスペースにおいで_椎野乃々.txt"
+    }
+  ]
+}
